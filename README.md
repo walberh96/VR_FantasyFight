@@ -4,7 +4,6 @@ I was thinking about how cool would it be to live the experience of being a hero
 ![Screenshot 1](./screenshots/1.png)
 
 # What you need
-You will need a VR device to play it, it's made for the Oculus Quest 2 and Windows, but you can download the code from this repo and set it up yourself in Unity or any other Game Engine.
-
+You will need a VR device to play it, it's made for the Oculus Quest 2 and Windows.
 # Where to download
-This is only a personal project for my own use and very easy to set up, so if you want my version just download my build in the releases tag and play it. 
+Its a work in progress but I plan on releasing it for the Oculus and Steam on December.
